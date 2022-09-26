@@ -56,13 +56,13 @@ class QueryResults:
 class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
-             [[types.InlineKeyboardButton('🇺🇸 English',    url='https://teletype.in/@undrcrxwn/hidethisbot_en'),
-               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@undrcrxwn/hidethisbot_pl')],
-              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@undrcrxwn/hidethisbot_ru'),
-               types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@undrcrxwn/hidethisbot_ua')],
-              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@undrcrxwn/hidethisbot_it'),
-               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@undrcrxwn/hidethisbot_cz')],
-              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@undrcrxwn/hidethisbot_es')]])
+             [[types.InlineKeyboardButton('How to send whisper ❓',    url='https://telegra.ph/how-09-26')]])
+#               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://telegra.ph/how-09-26')],
+#              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://telegra.ph/how-09-26'),
+#               types.InlineKeyboardButton('🇺🇦 Українська', url='https://telegra.ph/how-09-26')],
+#              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@undrcrxwn/hidethisbot_it'),
+#               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@undrcrxwn/hidethisbot_cz')]
+#              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@undrcrxwn/hidethisbot_es')]])
 
 class Media:
     def group_greeting_sticker_id(self):
