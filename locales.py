@@ -84,15 +84,15 @@ locale_it.group_greeting_message = (
 
 # INFO_MESSAGE
 locale_en.info_message = (
-        '👋🏻 Hi! My name is %s and I can help you send private messages that only certain people can view')
+        '👋🏻 Hi! I can help you send private messages that only certain people can view')
 locale_ru.info_message = (
-        '👋🏻 Привет! Меня зовут %s и я могу помочь вам отправлять сообщения, которые смогут прочитать только')
+        '👋🏻 Привет! я могу помочь вам отправлять сообщения, которые смогут прочитать только')
 locale_uk.info_message = (
-        '👋🏻 Привіт! Мене звуть %s і я можу допомогти вам відправляти повідомлення, які зможуть прочитати тільки')
+        '👋🏻 Привіт! я можу допомогти вам відправляти повідомлення, які зможуть прочитати тільки')
 locale_de.info_message = (
-        '👋🏻 Hi! Mein Name ist %s und ich kann dir helfen, private Nachrichten zu verschicken, die nur bestimmte Personen sehen können')
+        '👋🏻 Hi! ich kann dir helfen, private Nachrichten zu verschicken, die nur bestimmte Personen sehen können')
 locale_it.info_message = (
-         '👋🏻 Ciao! Il mio nome è %s E posso aiutarti ad inviare messaggi privati che solo alcuni possono vedere')
+         '👋🏻 Ciao! E posso aiutarti ad inviare messaggi privati che solo alcuni possono vedere')
 
 # HOW_TO_USE
 locale_en.how_to_use = 'How to use this bot?'
