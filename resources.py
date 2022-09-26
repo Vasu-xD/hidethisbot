@@ -66,9 +66,7 @@ class Keyboards:
 
 class Media:
     def group_greeting_sticker_id(self):
-        return random.choice(('CAACAgIAAxkBAAECkihg7Y5tYnlKz9jRe6QCNOyvEZri2wACSQ4AAliyaUuDPYCgY_2GXiAE',
-                              'CAACAgIAAxkBAAECkilg7Y5tzJPtIX4UMDgYaoxD6zcrogAC8Q0AAvMraEvkpXQDG5qEbyAE',
-                              'CAACAgIAAxkBAAECkipg7Y5tQk6MZlccqoudX9PEnxPbUwACfBAAAhJpcEuU9SdfdRAPdiAE'))
+        return random.choice(('CAACAgUAAxkBAAL9nWMxSbL6DEtni3y87oT7-mtTcqvRAAJgCQAC4ZOJVX1R20q9rZTgKQQ')
 
 class Resources:
     def __init__(self, locales: LocalesDict):
